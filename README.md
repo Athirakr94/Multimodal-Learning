@@ -38,4 +38,9 @@ Multimodal Representation Learning
 [WACV-2024] OmniVec: Learning robust representations with cross modal sharing https://arxiv.org/abs/2311.05709<br/>
 [InterSpeech-2024] Zero-Shot Fake Video Detection by Audio-Visual Consistency https://arxiv.org/abs/2406.07854<br/>
 
-
+AV SLAM
+=========
+[MDPI] An Audio-Based SLAM for Indoor Environments: A Robotic Mixed Reality Presentation https://www.mdpi.com/1424-8220/24/9/2796
+[ROMAN] Audio-visual slam towards human tracking and human-robot interaction in indoor environments https://ieeexplore.ieee.org/abstract/document/8956321
+[IROS] AcousticFusion: Fusing Sound Source Localization to Visual SLAM in Dynamic Environments  https://ieeexplore.ieee.org/abstract/document/9636585
+[ELSEVIER] Audio-visual based non-line-of-sight sound source localization: A feasibility study https://www.sciencedirect.com/science/article/pii/S0003682X20307787
