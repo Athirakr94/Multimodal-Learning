@@ -44,3 +44,9 @@ AV SLAM
 [ROMAN] Audio-visual slam towards human tracking and human-robot interaction in indoor environments https://ieeexplore.ieee.org/abstract/document/8956321<br/>
 [IROS] AcousticFusion: Fusing Sound Source Localization to Visual SLAM in Dynamic Environments  https://ieeexplore.ieee.org/abstract/document/9636585<br/>
 [ELSEVIER] Audio-visual based non-line-of-sight sound source localization: A feasibility study https://www.sciencedirect.com/science/article/pii/S0003682X20307787<br/>
+
+AV Action Recognition
+======================
+
+AV NAVIGATION
+=============
