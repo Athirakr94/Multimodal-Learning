@@ -48,5 +48,5 @@ AV SLAM
 AV Action Recognition
 ======================
 
-AV NAVIGATION
+AV Navigation
 =============
