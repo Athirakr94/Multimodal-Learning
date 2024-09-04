@@ -40,7 +40,7 @@ Multimodal Representation Learning
 
 AV SLAM
 =========
-[MDPI] An Audio-Based SLAM for Indoor Environments: A Robotic Mixed Reality Presentation https://www.mdpi.com/1424-8220/24/9/2796
-[ROMAN] Audio-visual slam towards human tracking and human-robot interaction in indoor environments https://ieeexplore.ieee.org/abstract/document/8956321
-[IROS] AcousticFusion: Fusing Sound Source Localization to Visual SLAM in Dynamic Environments  https://ieeexplore.ieee.org/abstract/document/9636585
-[ELSEVIER] Audio-visual based non-line-of-sight sound source localization: A feasibility study https://www.sciencedirect.com/science/article/pii/S0003682X20307787
+[MDPI] An Audio-Based SLAM for Indoor Environments: A Robotic Mixed Reality Presentation https://www.mdpi.com/1424-8220/24/9/2796<br/>
+[ROMAN] Audio-visual slam towards human tracking and human-robot interaction in indoor environments https://ieeexplore.ieee.org/abstract/document/8956321<br/>
+[IROS] AcousticFusion: Fusing Sound Source Localization to Visual SLAM in Dynamic Environments  https://ieeexplore.ieee.org/abstract/document/9636585<br/>
+[ELSEVIER] Audio-visual based non-line-of-sight sound source localization: A feasibility study https://www.sciencedirect.com/science/article/pii/S0003682X20307787<br/>
