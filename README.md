@@ -50,19 +50,19 @@ AV Action Recognition
 
 AV Navigation
 =============
-[ECCV-2020] SoundSpaces: Audio-Visual Navigation in 3D Environments https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2
-[ICRA-2020] Look, Listen, and Act: Towards Audio-Visual Embodied Navigation https://ieeexplore.ieee.org/abstract/document/9197008
-[ICLR-2021] Learning to Set Waypoints for Audio-Visual Navigation https://arxiv.org/abs/2008.09622 
-[CVPR-2021] Semantic Audio-Visual Navigation https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Semantic_Audio-Visual_Navigation_CVPR_2021_paper.html
-[ICCV-2021] Move2Hear: Active Audio-Visual Source Separation https://openaccess.thecvf.com/content/ICCV2021/html/Majumder_Move2Hear_Active_Audio-Visual_Source_Separation_ICCV_2021_paper.html
-[2022] Sound Adversarial Audio-Visual Navigation https://arxiv.org/abs/2202.10910
-[CVPR-2022] Towards Generalisable Audio Representations for Audio-Visual Navigation https://arxiv.org/abs/2206.00393
-[NeurIPS-2022] SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning https://arxiv.org/abs/2206.08312v1
-[NeurIPS-2022] AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments https://arxiv.org/abs/2210.07940
-[BMVC-2022] Pay Self-Attention to Audio-Visual Navigation https://arxiv.org/abs/2210.01353
-[CVPR-2022] Finding Fallen Objects Via Asynchronous Audio-Visual Integration https://arxiv.org/abs/2207.03483
-[CVPR-2022] ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer https://arxiv.org/abs/2204.02389
-[IEEE RAL-2023] Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds https://arxiv.org/abs/2111.14843
-[2023] Audio Visual Language Maps for Robot Navigation https://arxiv.org/abs/2303.07522
-[ICCV-2023] Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation https://arxiv.org/abs/2308.10306
-[IROS-2024] Audio-Visual Traffic Light State Detection for Urban Robots https://arxiv.org/abs/2404.19281
+[ECCV-2020] SoundSpaces: Audio-Visual Navigation in 3D Environments https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2 <br/>
+[ICRA-2020] Look, Listen, and Act: Towards Audio-Visual Embodied Navigation https://ieeexplore.ieee.org/abstract/document/9197008 <br/>
+[ICLR-2021] Learning to Set Waypoints for Audio-Visual Navigation https://arxiv.org/abs/2008.09622  <br/>
+[CVPR-2021] Semantic Audio-Visual Navigation https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Semantic_Audio-Visual_Navigation_CVPR_2021_paper.html <br/>
+[ICCV-2021] Move2Hear: Active Audio-Visual Source Separation https://openaccess.thecvf.com/content/ICCV2021/html/Majumder_Move2Hear_Active_Audio-Visual_Source_Separation_ICCV_2021_paper.html <br/>
+[2022] Sound Adversarial Audio-Visual Navigation https://arxiv.org/abs/2202.10910 <br/>
+[CVPR-2022] Towards Generalisable Audio Representations for Audio-Visual Navigation https://arxiv.org/abs/2206.00393 <br/>
+[NeurIPS-2022] SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning https://arxiv.org/abs/2206.08312v1 <br/>
+[NeurIPS-2022] AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments https://arxiv.org/abs/2210.07940 <br/>
+[BMVC-2022] Pay Self-Attention to Audio-Visual Navigation https://arxiv.org/abs/2210.01353 <br/>
+[CVPR-2022] Finding Fallen Objects Via Asynchronous Audio-Visual Integration https://arxiv.org/abs/2207.03483 <br/>
+[CVPR-2022] ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer https://arxiv.org/abs/2204.02389 <br/>
+[IEEE RAL-2023] Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds https://arxiv.org/abs/2111.14843 <br/>
+[2023] Audio Visual Language Maps for Robot Navigation https://arxiv.org/abs/2303.07522 <br/>
+[ICCV-2023] Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation https://arxiv.org/abs/2308.10306 <br/>
+[IROS-2024] Audio-Visual Traffic Light State Detection for Urban Robots https://arxiv.org/abs/2404.19281 <br/>
