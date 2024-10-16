@@ -96,6 +96,17 @@ Review and survey
 
 [2022] Deep Learning for Visual Speech Analysis: A Survey
 
+Citation
+=========
+If you find this repository helpful for your work, please kindly cite:
+
+@misc{Athirakr94Multimodal-Learning,
+  title={Awesome-Multimodal-Learning-Robotics},
+  author={Athira Krishnan R},
+  journal = {GitHub repository},
+  year={2024}
+}
+
 [2022] Recent Advances and Challenges in Deep Audio-Visual Correlation Learning
 
 [2023] A Review of Recent Advances on Deep Learning Methods for Audio-Visual Speech Recognition
