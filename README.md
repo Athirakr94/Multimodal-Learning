@@ -66,3 +66,36 @@ AV Navigation
 [2023] Audio Visual Language Maps for Robot Navigation https://arxiv.org/abs/2303.07522 <br/>
 [ICCV-2023] Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation https://arxiv.org/abs/2308.10306 <br/>
 [IROS-2024] Audio-Visual Traffic Light State Detection for Urban Robots https://arxiv.org/abs/2404.19281 <br/>
+
+Review and survey
+=================
+
+[Image Vis. Comput.-2014] A Review of Recent Advances in Visual Speech Decoding
+
+[2015] Audiovisual Fusion: Challenges and New Approaches
+
+[2017] Multimedia Datasets for Anomaly Detection: A Review
+
+[2017] Multimodal Machine Learning: A Survey and Taxonomy
+
+[2018] A Survey of Multi-View Representation Learning
+
+[Int. J. Adv. Robot. Syst-2020] Audiovisual Speech Recognition: A Review and Forecast
+
+[2021] A Survey on Audio Synthesis and Audio-Visual Multimodal Processing
+
+[2021] An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
+
+[2021] Deep Audio-visual Learning: A Survey
+
+[2022] Learning in Audio-visual Context: A Review, Analysis, and New Perspective
+
+[2022] A review of deep learning techniques in audio event recognition (AER) applications
+
+[2022] Audio self-supervised learning: A survey
+
+[2022] Deep Learning for Visual Speech Analysis: A Survey
+
+[2022] Recent Advances and Challenges in Deep Audio-Visual Correlation Learning
+
+[2023] A Review of Recent Advances on Deep Learning Methods for Audio-Visual Speech Recognition
