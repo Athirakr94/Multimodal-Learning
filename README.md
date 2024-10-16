@@ -70,43 +70,31 @@ AV Navigation
 Review and survey
 =================
 
-[Image Vis. Comput.-2014] A Review of Recent Advances in Visual Speech Decoding
-
-[2015] Audiovisual Fusion: Challenges and New Approaches
-
-[2017] Multimedia Datasets for Anomaly Detection: A Review
-
-[2017] Multimodal Machine Learning: A Survey and Taxonomy
-
-[2018] A Survey of Multi-View Representation Learning
-
-[Int. J. Adv. Robot. Syst-2020] Audiovisual Speech Recognition: A Review and Forecast
-
-[2021] A Survey on Audio Synthesis and Audio-Visual Multimodal Processing
-
-[2021] An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
-
-[2021] Deep Audio-visual Learning: A Survey
-
-[2022] Learning in Audio-visual Context: A Review, Analysis, and New Perspective
-
-[2022] A review of deep learning techniques in audio event recognition (AER) applications
-
-[2022] Audio self-supervised learning: A survey
-
-[2022] Deep Learning for Visual Speech Analysis: A Survey
+[Image Vis. Comput.-2014] A Review of Recent Advances in Visual Speech Decoding<br/>
+[2015] Audiovisual Fusion: Challenges and New Approaches<br/>
+[2017] Multimedia Datasets for Anomaly Detection: A Review<br/>
+[2017] Multimodal Machine Learning: A Survey and Taxonomy<br/>
+[2018] A Survey of Multi-View Representation Learning<br/>
+[Int. J. Adv. Robot. Syst-2020] Audiovisual Speech Recognition: A Review and Forecast<br/>
+[2021] A Survey on Audio Synthesis and Audio-Visual Multimodal Processing<br/>
+[2021] An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation<br/>
+[2021] Deep Audio-visual Learning: A Survey<br/>
+[2022] Learning in Audio-visual Context: A Review, Analysis, and New Perspective<br/>
+[2022] A review of deep learning techniques in audio event recognition (AER) applications<br/>
+[2022] Audio self-supervised learning: A survey<br/>
+[2022] Deep Learning for Visual Speech Analysis: A Survey<br/>
+[2022] Recent Advances and Challenges in Deep Audio-Visual Correlation Learning<br/>
+[2023] A Review of Recent Advances on Deep Learning Methods for Audio-Visual Speech Recognition<br/>
 
 Citation
 =========
 If you find this repository helpful for your work, please kindly cite:
 
-@misc{Athirakr94Multimodal-Learning,
-  title={Awesome-Multimodal-Learning-Robotics},
-  author={Athira Krishnan R},
-  journal = {GitHub repository},
-  year={2024}
+@misc{Athirakr94Multimodal-Learning,<br/>
+  title={Awesome-Multimodal-Learning-Robotics},<br/>
+  author={Athira Krishnan R},<br/>
+  journal = {GitHub repository},<br/>
+  year={2024}<br/>
 }
 
-[2022] Recent Advances and Challenges in Deep Audio-Visual Correlation Learning
 
-[2023] A Review of Recent Advances on Deep Learning Methods for Audio-Visual Speech Recognition
